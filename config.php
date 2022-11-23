@@ -1,0 +1,12 @@
+<?php
+
+
+
+define('BOOTCSS', "bootstrap5.2".DIRECTORY_SEPARATOR."node_modules".DIRECTORY_SEPARATOR."bootstrap".DIRECTORY_SEPARATOR."dist".DIRECTORY_SEPARATOR."css".DIRECTORY_SEPARATOR."bootstrap.min.css");
+define('BOOTJS', "bootstrap5.2".DIRECTORY_SEPARATOR."node_modules".DIRECTORY_SEPARATOR."bootstrap".DIRECTORY_SEPARATOR."dist".DIRECTORY_SEPARATOR."js".DIRECTORY_SEPARATOR."bootstrap.bundle.min.js");
+define('BOOTPOPPER', "bootstrap5.2".DIRECTORY_SEPARATOR."node_modules".DIRECTORY_SEPARATOR."@popperjs".DIRECTORY_SEPARATOR."core@2.11.6".DIRECTORY_SEPARATOR."dist".DIRECTORY_SEPARATOR."umd".DIRECTORY_SEPARATOR."popper.min.js");
+ 
+
+
+
+
